@@ -1,12 +1,13 @@
 BASIC
 Chansey
-120
+110
 LIGHTNING
 -
-4/Double-edge/80
+Gentle Slap/3/70
 FIGHTING
 -
 10
 Fusion Strike
 E
 shpagin/timofey/pavlovich/bsbo-04-23
+113

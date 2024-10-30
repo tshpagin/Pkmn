@@ -3,10 +3,11 @@ Blissey
 130
 LIGHTNING
 C:\Users\Пользователь\IdeaProjects\Pkmn\src\main\resources\evolves_from.txt
-3L/Expert in Roundness/20
+Let's All Rollout/3/20
 FIGHTING
 -
 10
 Fusion Strike
 E
 shpagin/timofey/pavlovich/bsbo-04-23
+203
