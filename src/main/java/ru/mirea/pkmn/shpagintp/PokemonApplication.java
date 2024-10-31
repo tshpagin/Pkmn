@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.util.stream.Collectors;
 
 public class PokemonApplication {
-    static String filename = "C:\\Users\\Пользователь\\IdeaProjects\\Pkmn\\src\\main\\resources\\my_card.txt";
+    static String filename = "src\\main\\resources\\my_card.txt";
     public static void main(String[] args) throws Exception {
 
         CardImport cardimport = new CardImport();
